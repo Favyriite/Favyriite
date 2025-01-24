@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Favyriite
-- 👀 I’m interested in data analysis and UX design
+- 👀 I’m interested in webdevelopment and responsive design and also  UI/UX design
 - 🌱 I’m currently learning UI design
-- 💞️ I’m looking to collaborate and working with like minds
+- 💞️ I’m looking to collaborate and working with developers and designers
 - 📫 How to reach me, email me on uzoyibofavour@gmail.com
 - 😄 Pronouns:she,her
 - ⚡ Fun fact: I learn fast!
