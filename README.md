@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Favyriite
+- 👋 Hi, I’m Uzoyibo Favour
 - 👀 I’m interested in webdevelopment and responsive design and also  UI/UX design
 - 🌱 I’m currently learning UI design
 - 💞️ I’m looking to collaborate and working with developers and designers
