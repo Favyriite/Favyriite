@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uzoyibo Favour
-- 👀 I’m interested in webdevelopment and responsive design and also  UI/UX design
-- 🌱 I’m currently learning UI design
+- 👀 I’m interested in webdevelopment, Data Science and Artificial Intelligence
+- 🌱 I’m currently learning Data Science and AI
 - 💞️ I’m looking to collaborate and working with developers and designers
 - 📫 How to reach me, email me on uzoyibofavour@gmail.com
 - 😄 Pronouns:she,her
